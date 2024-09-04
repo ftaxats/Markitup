@@ -1,5 +1,5 @@
-const serverURL = "https://markitup.vercel.app"
-const hostname = "https://markitup.vercel.app";
+const serverURL = "https://markitupdemo.vercel.app"
+const hostname = "https://markitupdemo.vercel.app";
 const currencySymbol = "₹";
 const appName = "Markitup";
 //UploadThing
