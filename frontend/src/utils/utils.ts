@@ -1,7 +1,7 @@
-const serverURL = "https://markitupdemo.vercel.app"
-const hostname = "https://markitupdemo.vercel.app";
+const serverURL = "https://markitup-alpha.vercel.app/"
+const hostname = "https://markitup-alpha.vercel.app/";
 const currencySymbol = "₹";
-const appName = "Markitup";
+const appName = "GradeLab";
 //UploadThing
 const maxFileCount = 10;
 const maxFileSize = "8MB"; // 8MB
